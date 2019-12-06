@@ -8,7 +8,7 @@ This is the released version 1.1 (Dec 06, 2019) for the tool, and this version h
 2. Seperate column delay in ADC, for array initialization during read.
 3. Improve buffer design: use multi-core architecture in buffer, to improve parallelism
 4. Use low-swing IC (H-tree and Bus): save data transfer energy
-5. Improve FinFET technology library (<20nm)
+5. Calibrate FinFET technology library (<20nm)
 ```
 This version has also added **_new features into accuracy estimation_**:
 ```
