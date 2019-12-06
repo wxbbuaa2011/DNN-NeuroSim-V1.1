@@ -32,7 +32,7 @@ If you have logistic questions or comments on the model, please contact [Prof. S
 
 
 ## File lists
-1. Manual: `Documents/DNNNeuroSim_Manual.pdf`
+1. Manual: `Documents/DNN NeuroSim V1.1 Manual.pdf`
 2. DNN_NeuroSim wrapped by Pytorch: 'Inference_pytorch'
 3. NeuroSim under Pytorch Inference: 'Inference_pytorch/NeuroSIM'
 
