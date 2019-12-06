@@ -28,6 +28,8 @@ If you use the tool or adapt the tool in your work or publication, you are requi
 
 **_X. Peng, S. Huang, Y. Luo, X. Sun and S. Yu, ※DNN+NeuroSim: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators with Versatile Device Technologies, *§ IEEE International Electron Devices Meeting (IEDM)*, 2019._**
 
+The default network is 8-bit VGG-8 for CIFAR-10 in this framework.
+
 If you have logistic questions or comments on the model, please contact [Prof. Shimeng Yu](mailto:shimeng.yu@ece.gatech.edu), and if you have technical questions or comments, please contact [Xiaochen Peng](mailto:xpeng76@gatech.edu) or [Shanshi Huang](mailto:shuang406@gatech.edu).
 
 
